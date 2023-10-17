@@ -1,0 +1,7 @@
+# ninja log v5
+0	220	7192599557018773	CMakeFiles/BuilderDP.dir/Source/Builder.cpp.obj	add2d93005f88158
+36	516	7192599559987431	CMakeFiles/BuilderDP.dir/Source/main.cpp.obj	dff9296ac4bfdd1b
+57	534	7192599560162641	CMakeFiles/BuilderDP.dir/Source/Product.cpp.obj	7544b0a3a6e246c7
+15	129	7192600391986992	CMakeFiles/BuilderDP.dir/Source/Orchestor.cpp.obj	79eab307d0bf33f8
+1	384	7192600847266775	CMakeFiles/BuilderDP.dir/Source/Client.cpp.obj	ff39188dcb40d64b
+384	761	7192600850975978	BuilderDP.exe	a59ea2be925921f1
